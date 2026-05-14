@@ -1,0 +1,1 @@
+I developed an easy to use command-line to do app written in Haskell. This programming language allows user input to respond to questions that keeps track of their tasks and to check them off when they're done. This tool can be used for recreational or working use on a laptop or computer command-line terminal.
